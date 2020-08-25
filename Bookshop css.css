@@ -1,6 +1,8 @@
 .header h1,
 .header .breadcrumb {
  text-align: center;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+word-spacing: 10px;
 }
 .book .addbtn,
 .searchBar input[type=submit] {
@@ -19,7 +21,7 @@
     height: 300px;
     margin: 50px;
     border: 2px solid black;
-    float: right;
+    float: left;
 }
 p2 {
     font-size: 14px;
@@ -30,12 +32,12 @@ p2 {
 display: block;
 white-space: 2px;
 }
-.breadcrumb {
-    word-spacing: 500px;
-}
 main { 
     background-color: sandybrown;
     ]
-    footer {
-        background-color: sandybrown;
+footer {
+    background-color: background-color: sandybrown;;
     }
+.btn-outline-primary
+    font size:200px;
+}
